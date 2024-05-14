@@ -1,0 +1,15 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "it is backend of clone of youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "harsh",
+  "license": "ISC"
+}
